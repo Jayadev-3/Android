@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DialogBox</string>
+    <string name="alerttitle">QUIT !</string>
+    <string name="message">Do you wanna Quit</string>
+    <string name="b1">QUIT</string>
+    <string name="lb1">Dialog Box Representation</string>
+</resources>
